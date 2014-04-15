@@ -1,0 +1,4 @@
+[
+    { "caption": "Save On Change: Start", "command": "save_on_change_start" },
+    { "caption": "Save On Change: Stop", "command": "save_on_change_stop" }
+]

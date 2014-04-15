@@ -1,0 +1,17 @@
+[
+	{
+		"id": "tools",
+		"children":
+		[
+			{
+				"caption": "Save On Change",
+				"id": "SaveOnChange",
+				"children":
+				[
+					{ "caption": "Start", "command": "save_on_change_start" },
+					{ "caption": "Stop", "command": "save_on_change_stop" }
+				]
+			}
+		]
+	}
+]
